@@ -8,6 +8,7 @@ rm -rf vendor/du
 rm -rf system/sepolicy
 rm -rf build/make
 rm -rf frameworks/native
+rm -rf packages/apps/Launcher3
 git clone https://github.com/DirtyUnicorn-Sanders/android_frameworks_base frameworks/base
 git clone https://github.com/DirtyUnicorn-Sanders/android_vendor_du vendor/du
 git clone https://github.com/DirtyUnicorn-Sanders/android_packages_apps_Settings packages/apps/Settings
@@ -21,3 +22,5 @@ git clone https://github.com/DirtyUnicorn-Sanders/kernel_motorola_msm8953_sander
 git clone https://github.com/DirtyUnicorn-Sanders/du_device_motorola_sanders.git device/motorola/sanders
 git clone https://github.com/DirtyUnicorn-Sanders/android_frameworks_native frameworks/native
 git clone https://github.com/BigTopKrazies/vendor_motorola_sanders vendor/motorola/sanders
+git clone https://github.com/BootleggersROM/packages_apps_Launcher3.git packages/apps/Launcher3
+git clone https://github.com/PixelExperience/packages_resources_MotoActions packages/resources/MotoActions
