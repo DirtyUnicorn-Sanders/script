@@ -8,6 +8,7 @@ rm -rf vendor/du
 rm -rf system/sepolicy
 rm -rf build/make
 rm -rf frameworks/native
+rm -rf hardware/qcom/gps
 rm -rf packages/apps/Launcher3
 git clone https://github.com/DirtyUnicorn-Sanders/android_frameworks_base frameworks/base
 git clone https://github.com/DirtyUnicorn-Sanders/android_vendor_du vendor/du
