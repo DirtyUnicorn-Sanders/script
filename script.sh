@@ -25,3 +25,5 @@ git clone https://github.com/DirtyUnicorn-Sanders/android_frameworks_native fram
 git clone https://github.com/BigTopKrazies/vendor_motorola_sanders vendor/motorola/sanders
 git clone https://github.com/BootleggersROM/packages_apps_Launcher3.git packages/apps/Launcher3
 git clone https://github.com/PixelExperience/packages_resources_MotoActions packages/resources/MotoActions
+git clone https://github.com/GZOSP/hardware_qcom_fm hardware/qcom/fm
+git clone https://github.com/GZOSP/packages_apps_FMRadio packages/apps/FMRadio
