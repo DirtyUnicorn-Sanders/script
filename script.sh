@@ -19,7 +19,7 @@ git clone https://github.com/DirtyUnicorn-Sanders/android_build.git build/make
 git clone https://github.com/GZOSP/hardware_qcom_audio -b 8.1-caf-8996 hardware/qcom/audio-caf/msm8996
 git clone https://github.com/GZOSP/hardware_qcom_display -b 8.1-caf-8996 hardware/qcom/display-caf/msm8996
 git clone https://github.com/GZOSP/hardware_qcom_media -b 8.1-caf-8996 hardware/qcom/media-caf/msm8996
-git clone https://github.com/DirtyUnicorn-Sanders/kernel_motorola_msm8953_sanders.git kernel/motorola/msm8953
+git clone https://github.com/GZR-Kernels/kernel_motorola_msm8953_sanders kernel/motorola/msm8953
 git clone https://github.com/DirtyUnicorn-Sanders/du_device_motorola_sanders.git device/motorola/sanders
 git clone https://github.com/DirtyUnicorn-Sanders/android_frameworks_native frameworks/native
 git clone https://github.com/BigTopKrazies/vendor_motorola_sanders vendor/motorola/sanders
