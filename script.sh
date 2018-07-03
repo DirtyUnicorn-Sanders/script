@@ -1,3 +1,4 @@
+git clone https://rajadeja@bitbucket.org/rajadeja/du_device_motorola_sanders.git -b dunew device/motorola/sanders
 rm -rf frameworks/base
 rm -rf hardware/qcom/audio-caf
 rm -rf hardware/qcom/display-caf
@@ -20,7 +21,6 @@ git clone https://github.com/GZOSP/hardware_qcom_audio -b 8.1-caf-8996 hardware/
 git clone https://github.com/GZOSP/hardware_qcom_display -b 8.1-caf-8996 hardware/qcom/display-caf/msm8996
 git clone https://github.com/GZOSP/hardware_qcom_media -b 8.1-caf-8996 hardware/qcom/media-caf/msm8996
 git clone https://github.com/GZR-Kernels/kernel_motorola_msm8953_sanders kernel/motorola/msm8953
-git clone https://github.com/DirtyUnicorn-Sanders/du_device_motorola_sanders.git device/motorola/sanders
 git clone https://github.com/DirtyUnicorn-Sanders/android_frameworks_native frameworks/native
 git clone https://github.com/BigTopKrazies/vendor_motorola_sanders vendor/motorola/sanders
 git clone https://github.com/BootleggersROM/packages_apps_Launcher3.git packages/apps/Launcher3
