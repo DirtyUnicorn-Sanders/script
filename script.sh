@@ -1,5 +1,5 @@
 git clone https://github.com/rajadeja/du_device_motorola_sanders -b dunew device/motorola/sanders
-git clone https://github.com/rajadeja/kernel_motorola_msm8953 kernel/motorola/msm8953
+git clone https://github.com/DirtyUnicorn-Sanders/kernel_motorola_msm8953 kernel/motorola/msm8953
 git clone https://github.com/rajadeja/vendor_motorola_sanders vendor/motorola/sanders
 rm -rf frameworks/base
 rm -rf hardware/qcom/audio-caf
